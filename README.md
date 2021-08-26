@@ -1,4 +1,6 @@
 # Ghana-Housing-Data-Analysis
+![ghana_house](https://user-images.githubusercontent.com/63692930/130990201-5ef7d2c4-bbe5-4210-b9dc-913a7bdf5622.jpg)
+
 The United Nations Sustainable Development Goals includes a target for making cities and human settlements inclusive, safe, 
 resilient, and sustainable (Goal 11). A key outcome of this goal is to provide opportunities for safe and affordable housing.
 The housing situation in Ghana is far from the SDG target described above. As a result, it would be interesting to investigate
