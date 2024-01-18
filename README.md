@@ -19,5 +19,12 @@ The analysis seeks to find;
 
 1. The suburb with the highest average rent price
 2. The average rent price for each suburb
-3. The most frequent number of bed and bathrooms
-4. The most affordable and expensive suburb in Accra and Kumasi
+3. The most affordable and expensive suburb in Accra and Kumasi
+
+FINDING
+1. The average rent price for a two-bedroom unfurnished apartment in Accra
+![accra](https://github.com/Suleman-Zack/Project-1-Ghana-Housing-Data-Analysis/assets/63692930/6900710a-be2b-407b-ba67-54ff2dc7d569)
+
+2. The average rent price for a two-bedroom unfurnished apartment in Kumasi
+![ksi](https://github.com/Suleman-Zack/Project-1-Ghana-Housing-Data-Analysis/assets/63692930/9e910d04-ac13-4a72-bace-701ddab03cee)
+
