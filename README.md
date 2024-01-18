@@ -1,4 +1,4 @@
-# Ghana-Housing-Data-Analysis
+# Project 1. Ghana-Housing-Data-Analysis
 ![ghana_house](https://user-images.githubusercontent.com/63692930/130990201-5ef7d2c4-bbe5-4210-b9dc-913a7bdf5622.jpg)
 
 The United Nations Sustainable Development Goals includes a target for making cities and human settlements inclusive, safe, 
